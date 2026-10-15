@@ -1,4 +1,4 @@
-e# 👋 Salut, moi c’est Daniel Joseph !
+ 👋 Salut, moi c’est Daniel Joseph !
 
 💻 **Développeur Web Junior | Passionné par le design UX/UI**
 
