@@ -1,29 +1,33 @@
-# 👋 Hi, I'm Daniel Joseph!
+# 👋 Salut, moi c’est Daniel Joseph !
 
-💻 **Junior Web Developer | UX/UI Design Enthusiast**
+💻 **Développeur Web Junior | Passionné par le design UX/UI**
 
-I'm a beginner web developer passionate about technology, programming, and user interface design. I'm currently developing my skills through personal projects and learning how to create modern, accessible, and user-friendly websites.
+Je suis un développeur web débutant, passionné par la technologie, la programmation et la conception d’interfaces utilisateur. Je développe actuellement mes compétences à travers des projets personnels et j’apprends à créer des sites web modernes, accessibles et faciles à utiliser.
 
-### 🚀 About Me
-- 🌐 Learning and building with **HTML and CSS**.
-- 🎨 Exploring **Figma and UX/UI design** to create intuitive user experiences.
-- 🔧 Learning to manage projects with **Git and GitHub**.
-- 💡 Curious about technology, computers, laptops, and web development.
-- 📚 Always motivated to learn new tools and improve my skills.
-- 🌍 I speak French and English.
-- 📍 Based in Martinique, France, and open to opportunities in Lyon and its surrounding region.
+### 🚀 À propos de moi
 
-### 🛠️ Skills & Tools
-- **Web Development:** HTML, CSS
-- **Design:** Figma, UX/UI fundamentals
-- **Version Control:** Git, GitHub
+- 🌐 J’apprends et je développe des projets avec **HTML et CSS**.
+- 🎨 J’explore **Figma et le design UX/UI** pour créer des expériences utilisateur intuitives.
+- 🔧 J’apprends à gérer mes projets avec **Git et GitHub**.
+- 💡 Je suis curieux et passionné par la technologie, l’informatique, les ordinateurs portables et le développement web.
+- 📚 Je suis toujours motivé pour découvrir de nouveaux outils et améliorer mes compétences.
+- 🌍 Je parle français et anglais.
+- 📍 Basé en Martinique, en France, et ouvert aux opportunités à Lyon et dans sa région.
 
-### 🎯 My Goal
-My goal is to grow as a web developer and UX/UI designer by building personal projects, learning from other developers, and creating digital experiences that are both useful and visually appealing.
+### 🛠️ Compétences et outils
 
-I'm at the beginning of my professional journey, and I'm excited to keep learning, experimenting, and turning ideas into reality.
+- **Développement web :** HTML, CSS
+- **Design :** Figma, bases de l’UX/UI
+- **Gestion de versions :** Git, GitHub
 
-### 🤝 Let's Connect!
-I'm open to learning opportunities, collaborations, and projects that will help me grow as a developer.
+### 🎯 Mon objectif
 
-**Thanks for visiting my GitHub profile!** 🚀
+Mon objectif est de progresser en tant que développeur web et designer UX/UI en réalisant des projets personnels, en apprenant auprès d’autres développeurs et en créant des expériences numériques à la fois utiles, intuitives et esthétiques.
+
+Je suis au début de mon parcours professionnel et je suis enthousiaste à l’idée de continuer à apprendre, à expérimenter et à transformer mes idées en réalisations concrètes.
+
+### 🤝 Restons en contact !
+
+Je suis ouvert aux opportunités d’apprentissage, aux collaborations et aux projets qui me permettront de progresser en tant que développeur.
+
+**Merci d’avoir visité mon profil GitHub !** 🚀
