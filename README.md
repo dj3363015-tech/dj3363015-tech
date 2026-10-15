@@ -31,3 +31,9 @@ Je suis au début de mon parcours professionnel et je suis enthousiaste à l’i
 Je suis ouvert aux opportunités d’apprentissage, aux collaborations et aux projets qui me permettront de progresser en tant que développeur.
 
 **Merci d’avoir visité mon profil GitHub !** 🚀
+
+### 🛠️ Technologies et outils
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,figma,git,github" alt="HTML, CSS, Figma, Git et GitHub" />
+</p>
