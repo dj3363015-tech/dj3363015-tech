@@ -1,39 +1,42 @@
- 👋 Salut, moi c’est Daniel Joseph !
+# Bonjour, je suis Daniel Joseph 👋
 
-💻 **Développeur Web Junior | Passionné par le design UX/UI**
+### Développeur web junior · UX/UI design
 
-Je suis un développeur web débutant, passionné par la technologie, la programmation et la conception d’interfaces utilisateur. Je développe actuellement mes compétences à travers des projets personnels et j’apprends à créer des sites web modernes, accessibles et faciles à utiliser.
+Je construis mes compétences en développement web et en conception d’interfaces à travers des projets personnels. J’aime apprendre de nouveaux outils, transformer des idées en interfaces claires et créer des expériences web accessibles et faciles à utiliser.
 
-### 🚀 À propos de moi
+- 🌍 **Localisation :** Martinique · mobilité possible à Lyon et dans sa région
+- 💻 **Centres d’intérêt :** développement web, design UX/UI et technologies informatiques
+- 🌱 **En apprentissage :** amélioration continue de mes compétences techniques et de ma pratique du design
+- 🤝 **Ouvert à :** une première opportunité, l’apprentissage et les collaborations adaptées à un profil junior
+- 🗣️ **Langues :** français et anglais courants
 
-- 🌐 J’apprends et je développe des projets avec **HTML et CSS , JAVASCRIPT**.
-- 🎨 J’explore **Figma et le design UX/UI** pour créer des expériences utilisateur intuitives.
-- 🔧 J’apprends à gérer mes projets avec **Git et GitHub**.
-- 💡 Je suis curieux et passionné par la technologie, l’informatique, les ordinateurs portables et le développement web.
-- 📚 Je suis toujours motivé pour découvrir de nouveaux outils et améliorer mes compétences.
-- 🌍 Je parle français et anglais.
-- 📍 Basé en France.
+## 🛠️ Compétences et outils
 
-### 🛠️ Compétences et outils
+- **Web :** HTML, CSS, bases de JavaScript
+- **UX/UI :** Figma, principes de conception d’interfaces
+- **Outils :** Git, GitHub
 
-- **Développement web :** HTML, CSS, JAVASCRIPT
-- **Design :** Figma, bases de l’UX/UI
-- **Gestion de versions :** Git, GitHub
-
-### 🎯 Mon objectif
-
-Mon objectif est de progresser en tant que développeur web et designer UX/UI en réalisant des projets personnels, en apprenant auprès d’autres développeurs et en créant des expériences numériques à la fois utiles, intuitives et esthétiques.
-
-Je suis au début de mon parcours professionnel et je suis enthousiaste à l’idée de continuer à apprendre, à expérimenter et à transformer mes idées en réalisations concrètes.
-
-### 🤝 Restons en contact !
-
-Je suis ouvert aux opportunités d’apprentissage, aux collaborations et aux projets qui me permettront de progresser en tant que développeur.
-
-**Merci d’avoir visité mon profil GitHub !** 🚀
-
-### 🛠️ Technologies et outils
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,figma,git,github" alt="HTML, CSS, Figma, Git et GitHub" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,figma,git,github" alt="HTML, CSS, JavaScript, Figma, Git et GitHub" />
 </p>
+
+## 🚀 Portfolio
+
+Découvrez mon portfolio et mes réalisations :
+
+**[Visiter mon portfolio](https://dj3363015-tech.github.io/portfolio/)**
+
+Je développe mes projets étape par étape et je documente mon apprentissage. Les projets présentés doivent refléter les réalisations réellement disponibles dans mes dépôts.
+
+## 🎯 Mon objectif
+
+Décrocher une première opportunité en développement web ou en UX/UI design, continuer à progresser au sein d’une équipe et contribuer à la création de produits numériques utiles, accessibles et soignés.
+
+## 📫 Me retrouver sur GitHub
+
+- **Profil :** [@dj3363015-tech](https://github.com/dj3363015-tech)
+- **Portfolio :** [dj3363015-tech.github.io/portfolio](https://dj3363015-tech.github.io/portfolio/)
+
+---
+
+*Merci de visiter mon profil ! N’hésitez pas à découvrir mes dépôts et mes projets.*
