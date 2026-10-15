@@ -6,7 +6,7 @@ Je suis un développeur web débutant, passionné par la technologie, la program
 
 ### 🚀 À propos de moi
 
-- 🌐 J’apprends et je développe des projets avec **HTML et CSS**.
+- 🌐 J’apprends et je développe des projets avec **HTML et CSS , JAVASCRIPT**.
 - 🎨 J’explore **Figma et le design UX/UI** pour créer des expériences utilisateur intuitives.
 - 🔧 J’apprends à gérer mes projets avec **Git et GitHub**.
 - 💡 Je suis curieux et passionné par la technologie, l’informatique, les ordinateurs portables et le développement web.
@@ -16,7 +16,7 @@ Je suis un développeur web débutant, passionné par la technologie, la program
 
 ### 🛠️ Compétences et outils
 
-- **Développement web :** HTML, CSS
+- **Développement web :** HTML, CSS, JAVASCRIPT
 - **Design :** Figma, bases de l’UX/UI
 - **Gestion de versions :** Git, GitHub
 
