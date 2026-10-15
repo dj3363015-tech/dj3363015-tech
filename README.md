@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est Daniel Joseph !
+e# 👋 Salut, moi c’est Daniel Joseph !
 
 💻 **Développeur Web Junior | Passionné par le design UX/UI**
 
@@ -12,7 +12,7 @@ Je suis un développeur web débutant, passionné par la technologie, la program
 - 💡 Je suis curieux et passionné par la technologie, l’informatique, les ordinateurs portables et le développement web.
 - 📚 Je suis toujours motivé pour découvrir de nouveaux outils et améliorer mes compétences.
 - 🌍 Je parle français et anglais.
-- 📍 Basé en Martinique, en France, et ouvert aux opportunités à Lyon et dans sa région.
+- 📍 Basé en France.
 
 ### 🛠️ Compétences et outils
 
