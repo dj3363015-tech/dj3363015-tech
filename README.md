@@ -12,6 +12,12 @@ Je développe mes compétences en création de sites web et en conception d’in
 
 ## 🛠️ Compétences et outils
 
+### Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,figma,git,github" alt="HTML, CSS, JavaScript, Figma, Git et GitHub" />
+</p>
+
 - **Web :** HTML, CSS, JavaScript
 - **UX/UI :** Figma, principes de conception d’interfaces
 - **Outils :** Git et GitHub
@@ -37,4 +43,5 @@ Trouver une première opportunité en développement web ou en UX/UI design, con
 - **Portfolio :** [dj3363015-tech.github.io/portfolio](https://dj3363015-tech.github.io/portfolio/)
 
 ---
+
 *Merci de visiter mon profil ! N’hésitez pas à découvrir mes dépôts et mes projets.*
