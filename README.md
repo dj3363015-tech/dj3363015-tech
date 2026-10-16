@@ -24,13 +24,19 @@ Je construis mes compétences en développement web et en conception d’interfa
   <img src="https://skillicons.dev/icons?i=html,css,js,figma,git,github" alt="HTML, CSS, JavaScript, Figma, Git et GitHub" />
 </p>
 
-## 🌐 Aperçu de mon portfolio
+## 🖼️ Mes projets en images
 
-<p align="center">
-  <a href="https://dj3363015-tech.github.io/portfolio/">
-    <img src="https://image.thum.io/get/width/1200/crop/800/https://dj3363015-tech.github.io/portfolio/" alt="Capture d’écran du portfolio de Daniel Joseph" width="100%" />
-  </a>
-</p>
+<p align="center"><strong>Studio Nova — Portfolio créatif</strong><br>
+<a href="https://dj3363015-tech.github.io/portfolio/projects/studio-nova/">
+<img src="https://raw.githubusercontent.com/dj3363015-tech/portfolio/main/projects/studio-nova/preview.svg" alt="Aperçu du projet Studio Nova" width="90%" /></a></p>
+
+<p align="center"><strong>Luma — Boutique en ligne</strong><br>
+<a href="https://dj3363015-tech.github.io/portfolio/projects/luma-store/">
+<img src="https://raw.githubusercontent.com/dj3363015-tech/portfolio/main/projects/luma-store/preview.svg" alt="Aperçu du projet Luma Store" width="90%" /></a></p>
+
+<p align="center"><strong>Ti Kay Livraison — Commande de repas</strong><br>
+<a href="https://dj3363015-tech.github.io/portfolio/projects/ti-kay-livraison/">
+<img src="https://raw.githubusercontent.com/dj3363015-tech/portfolio/main/projects/ti-kay-livraison/desktop-preview.svg" alt="Aperçu du projet Ti Kay Livraison sur ordinateur" width="90%" /></a></p>
 
 <p align="center">
   <a href="https://dj3363015-tech.github.io/portfolio/"><strong>🚀 Visiter mon portfolio en ligne</strong></a>
@@ -38,7 +44,7 @@ Je construis mes compétences en développement web et en conception d’interfa
   <a href="https://github.com/dj3363015-tech/portfolio"><strong>Voir le code source</strong></a>
 </p>
 
-Je développe mes projets étape par étape et je documente mon apprentissage. Les projets présentés doivent refléter les réalisations réellement disponibles dans mes dépôts.
+Les images ci-dessus sont les aperçus des projets présents dans mon portfolio. Cliquez sur une image pour ouvrir le projet correspondant.
 
 ## 🎯 Mon objectif
 
