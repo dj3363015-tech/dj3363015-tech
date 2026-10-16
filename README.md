@@ -1,5 +1,9 @@
 # Bonjour, je suis Daniel Joseph 👋
 
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/338306900?v=4" width="120" alt="Avatar GitHub de Daniel Joseph" />
+</p>
+
 ### Développeur web junior · UX/UI design
 
 Je construis mes compétences en développement web et en conception d’interfaces à travers des projets personnels. J’aime apprendre de nouveaux outils, transformer des idées en interfaces claires et créer des expériences web accessibles et faciles à utiliser.
@@ -16,15 +20,23 @@ Je construis mes compétences en développement web et en conception d’interfa
 - **UX/UI :** Figma, principes de conception d’interfaces
 - **Outils :** Git, GitHub
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,figma,git,github" alt="HTML, CSS, JavaScript, Figma, Git et GitHub" />
 </p>
 
-## 🚀 Portfolio
+## 🌐 Aperçu de mon portfolio
 
-Découvrez mon portfolio et mes réalisations :
+<p align="center">
+  <a href="https://dj3363015-tech.github.io/portfolio/">
+    <img src="https://image.thum.io/get/width/1200/crop/800/https://dj3363015-tech.github.io/portfolio/" alt="Capture d’écran du portfolio de Daniel Joseph" width="100%" />
+  </a>
+</p>
 
-**[Visiter mon portfolio](https://dj3363015-tech.github.io/portfolio/)**
+<p align="center">
+  <a href="https://dj3363015-tech.github.io/portfolio/"><strong>🚀 Visiter mon portfolio en ligne</strong></a>
+  ·
+  <a href="https://github.com/dj3363015-tech/portfolio"><strong>Voir le code source</strong></a>
+</p>
 
 Je développe mes projets étape par étape et je documente mon apprentissage. Les projets présentés doivent refléter les réalisations réellement disponibles dans mes dépôts.
 
